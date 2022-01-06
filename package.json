@@ -4,7 +4,7 @@
   "description": "Primer proyecto en Cypress",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/cypress open"
+    "test": "/node_modules/.bin/cypress open"
   },
   "keywords": [
     "qa",
@@ -22,6 +22,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rbarahonao/tiendaDeRopaCypress"
+    "url": "https://github.com/rbarahonao/tiendaDeRopaCypress.git"
   }
 }
